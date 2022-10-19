@@ -46,6 +46,10 @@
     text-align: center;
 }
 
+.text-right {
+    text-align: right;
+}
+
 .illustration {
     max-width: 208px;
 }
@@ -59,8 +63,14 @@
 
 .illustration-container {
     margin-top: 32px;
+    margin-bottom: 100px;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     gap: 32px;
+}
+
+.quote {
+    font-size: 36px;
+    margin: 100px;
 }
