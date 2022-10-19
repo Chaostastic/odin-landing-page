@@ -1,8 +1,8 @@
-body {
+.content-container {
     display:flex
 }
 
-.page-content {
+.content {
     flex: 6
 }
 
