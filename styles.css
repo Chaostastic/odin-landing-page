@@ -1,0 +1,11 @@
+body {
+    display:flex
+}
+
+.page-content {
+    flex: 6
+}
+
+.side-margin {
+    flex: 1
+}
