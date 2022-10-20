@@ -1,3 +1,7 @@
+body {
+    margin: 0;
+}
+
 .content-container {
     display:flex
 }
@@ -82,4 +86,11 @@
     background: #3882F6;
     margin: 80px 0;
     color: white;
+}
+
+.footer {
+    padding: 50px 0;
+    font-size: 18px;
+    color: white;
+    background: #1F2937;
 }
