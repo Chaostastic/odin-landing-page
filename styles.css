@@ -75,7 +75,6 @@ body {
 }
 
 .quote {
-    font-size: 36px;
     margin: 100px;
 }
 
@@ -84,13 +83,37 @@ body {
     align-items: center;
     justify-content: space-evenly;
     background: #3882F6;
-    margin: 80px 0;
+    height: 160px;
+    margin: 120px 0;
     color: white;
 }
 
 .footer {
     padding: 50px 0;
-    font-size: 18px;
     color: white;
     background: #1F2937;
+}
+
+.font-18 {
+    font-size: 18px;
+}
+
+.font-24 {
+    font-size: 24px;
+}
+
+.font-36 {
+    font-size: 36px;
+}
+
+.font-48 {
+    font-size: 48px;
+}
+
+.bold {
+    font-weight: 900;
+}
+
+.italic {
+    font-style: italic;
 }
