@@ -74,3 +74,12 @@
     font-size: 36px;
     margin: 100px;
 }
+
+.call-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background: #3882F6;
+    margin: 80px 0;
+    color: white;
+}
