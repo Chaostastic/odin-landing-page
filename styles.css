@@ -74,7 +74,16 @@ body {
     gap: 32px;
 }
 
+.info-block {
+    color: #1f2937;
+}
+
+.quote-block {
+    background: #e5e7eb;
+}
+
 .quote {
+    color: #1f2937;
     margin: 100px;
 }
 
@@ -88,10 +97,18 @@ body {
     color: white;
 }
 
+.top-block,
+.footer {
+    color: #e5e7eb;
+    background: #1F2937;
+}
+
+.sec-white {
+    color: #f9faf8;
+}
+
 .footer {
     padding: 50px 0;
-    color: white;
-    background: #1F2937;
 }
 
 .font-18 {
