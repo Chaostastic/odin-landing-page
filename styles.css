@@ -32,6 +32,7 @@ body {
 
 .hero-container {
     display: flex;
+    gap: 32px;
     margin: 130px 0;
 }
 
@@ -45,7 +46,7 @@ body {
     align-items: center;
     height: 250px;
     width: 500px;
-    background: lightgray;
+    background: rgb(110, 120, 130);
     flex: none;
 }
 
