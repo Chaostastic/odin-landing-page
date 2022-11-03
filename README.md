@@ -16,7 +16,7 @@ Learned from this project:
      - .class
      - #id
      - div
-     - *
+     - \*
      - Grouping Selector
        - .class, #id
      - Chaining Selectors
